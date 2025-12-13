@@ -1,4 +1,4 @@
-﻿namespace Quan_Li_Chi_Tieu
+﻿namespace Quan_Li_Chi_Tieu.Froms
 {
     partial class MainFrm
     {

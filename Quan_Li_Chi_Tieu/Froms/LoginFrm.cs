@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Quan_Li_Chi_Tieu
+namespace Quan_Li_Chi_Tieu.Froms
 {
-    public partial class MainFrm : Form
+    public partial class LoginFrm : Form
     {
-        public MainFrm()
+        public LoginFrm()
         {
             InitializeComponent();
         }
