@@ -1,8 +1,8 @@
 namespace Quan_Li_Chi_Tieu
 {
-    public partial class Form1 : Form
+    public partial class LoginFrm : Form
     {
-        public Form1()
+        public LoginFrm()
         {
             InitializeComponent();
         }
