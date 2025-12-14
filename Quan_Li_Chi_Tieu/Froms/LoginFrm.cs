@@ -16,5 +16,10 @@ namespace Quan_Li_Chi_Tieu.Froms
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
